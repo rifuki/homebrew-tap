@@ -1,8 +1,8 @@
 class Negi < Formula
   desc "Phone remote for tmux and the Mac's screen, over your tailnet"
   homepage "https://github.com/rifuki/negi"
-  url "https://github.com/rifuki/negi/releases/download/v0.2.11/negi-0.2.11-darwin-arm64.tar.gz"
-  sha256 "90cbbebbe51506ee366d7a362d8717c0a1056308b0ed5c1093dd8e9bf89ae4e9"
+  url "https://github.com/rifuki/negi/releases/download/v0.2.12/negi-0.2.12-darwin-arm64.tar.gz"
+  sha256 "ad23248a62c33f5bf02fcf9e7c05bece03bf6886e7a69dec007ced6794eaf4ca"
   license "MIT"
 
   depends_on arch: :arm64
